@@ -1,0 +1,9 @@
+{
+  "name": "basicgraphqlcrud",
+  "version": "1.0.0",
+  "description": "Node.js/Express CRUD backend using GraphQL and JSON-Server",
+  "main": "server.js",
+  "repository": "https://github.com/miami78/Basic-GraphQL-CRUD",
+  "author": "Miami Larry <miamilarry78@gmail.com>",
+  "license": "MIT"
+}
